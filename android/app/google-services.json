@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "627662526322",
+    "project_id": "buccheck",
+    "storage_bucket": "buccheck.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627662526322:android:6e50543aab03e202a72feb",
+        "android_client_info": {
+          "package_name": "com.example.checkcheckcheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaJRmUFRSVBa6yT1YnkxegIrAfzBXemow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
